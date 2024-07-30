@@ -1,0 +1,8 @@
+This is assignment project 2 for virtualization and cloud computing AUTHOR - Akash Badola; ROLL - G23AI2053 COURSE- PGDDE 2024-25; SUBJECT VIRTUALIZATION AND CLOUD COMPUTING
+Objective - Create a Docker image of Web Application, Deploy and Run inside the container
+There are two options to build container applications
+Build the project and later containerize it or Build the project inside the container
+
+Assignment Requirements:
+Git-Hub Repos Software Pre-Requisites
+Docker Desktop IDE - VS Code, VS Code Extensions - Python and Docker from verified sources
